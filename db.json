@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 13 Pro",
+      "price": 1189,
+      "description": "Super. Ultra. Pro.",
+      "imgSrc": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-blue-select?wid=940&hei=1112&fmt=png-alpha&.v=1631652954000"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13 ",
+      "price": 939,
+      "description": "Il tuo nuovo superpotere.",
+      "imgSrc": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-product-red-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629907846000"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 12",
+      "price": 839,
+      "description": "Veloce che è una meraviglia.",
+      "imgSrc": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-black-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343702000"
+    },
+    {
+      "id": 4,
+      "name": "iPhone SE",
+      "price": 499,
+      "description": "Proprio quello che vuoi. A meno di quello che pensi.",
+      "imgSrc": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-se-white-select-2020_GEO_EMEA?wid=940&hei=1112&fmt=png-alpha&.v=1586574260599"
+    }
+  ],
+  "prices": [
+    {
+      "type": "1-Giorno",
+      "price": 25.99
+    },
+    {
+      "type": "2-Giorni",
+      "price": 9.99
+    },
+    {
+      "type": "5-Giorni",
+      "price": 2.99
+    }
+  ]
+}
